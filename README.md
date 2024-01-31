@@ -1,4 +1,4 @@
-Hey there! 👋
+### Hey there! 👋
 
 I'm a person who decided to start an adventure with coding - currently dive into Python, and I'm taking on C. Beyond typical programming, I'm into projecting HTML/CSS/JS websites 💻
 
