@@ -7,4 +7,4 @@ I speak Czech, English and Polish.
 
 If you'd want to support my work...
 <br><br>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pncmk3v)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pncmk3v7fm)
